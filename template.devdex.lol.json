@@ -1,0 +1,8 @@
+{
+  "name": "My Project",
+  "dns": {
+    "A": "0.0.0.0",
+    "CNAME": "mydomain.com",
+  },
+  "agreement": false
+}
